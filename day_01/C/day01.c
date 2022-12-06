@@ -58,7 +58,7 @@ int main()
     printf("The elf with the most calories is carrying %d calories.\n\r"
             "The elf with the second most calories is carrying %d calories.\r\n"
             "The elf with the third most calories is carrying %d calories.\r\n"
-            "In total, the three of them are carrying %d calories!",
+            "In total, the three of them are carrying %d calories\r\n!",
             max_calories, second_max, third_max, total_calories);
 
     return 0;
