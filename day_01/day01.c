@@ -7,7 +7,7 @@ int main()
     //  Setting up the path to the file to be read;
     FILE* file_path;
     //  Opening the file
-    file_path = fopen("../day01_input.txt", "r");
+    file_path = fopen("day01_input.txt", "r");
 
     //  Setting up the variables for the challange;
     char calories[8];
