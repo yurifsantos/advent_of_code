@@ -51,7 +51,7 @@ int main (int argc, char* argv[])
 
     fclose(input);
 
-    printf("Result : %d\n", result);
+    printf("Result: %d\n", result);
 
 }
 
